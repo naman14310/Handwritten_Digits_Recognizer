@@ -1,0 +1,2 @@
+# Handwritten-Digits-Recognizer
+This program can recognise handwritten digits with 99% accuracy. It is trained on CNN lenet architecture using MNIST well known dataset. MNIST ("Modified National Institute of Standards and Technology") is the de facto “Hello World” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms.      
